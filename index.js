@@ -1,6 +1,6 @@
 const { exec } = require('child_process');
 
-const url = 'http://utils.whatoplay.net/cache/game/?game_id=1'; // url
+const url = 'google.com'; // url
 // const data = '--data "game_id=32&platform=ios"' // for post request
 const headers = '-H "Content-Type: application/json"' // option for headers
 const data = "";
